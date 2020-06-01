@@ -31,7 +31,8 @@ CREATE TABLE Reservation(
     customer_id INT NOT NULL,
     room_id INT NOT NULL,
     total_days INT NOT NULL,
-    total_cost INT NOT NULL
+    total_cost INT NOT NULL,
+    start_date DATE
 );
 
 
