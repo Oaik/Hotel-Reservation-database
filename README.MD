@@ -5,6 +5,11 @@ Hotel Reservation System is a system which allows any “Customer” to reserve 
 
 Each room has a certain price if anyone wants to reserve it and also contains an attribute which refers to the number of rooms in this room.
 
+### Code:
+every group of quries is collected in a file
+But also there is <a href="https://github.com/Oaik/Hotel-Reservation-database/blob/master/all.sql">"all.sql"</a> which file contains all quries in sequence 
+
+
 ### Entity Relationship Diagram
 demo:
 <img src="er-diagram.png">
